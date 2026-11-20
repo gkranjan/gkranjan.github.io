@@ -1,0 +1,15 @@
+PERSONALIZE THESE ASSETS BEFORE PUBLISHING
+
+1) Profile photo:
+   - Add a professional JPG photo named profile.jpg to this folder.
+   - In index.html, change:
+       assets/profile-placeholder.svg
+     to:
+       assets/profile.jpg
+
+2) Resume:
+   - Add your actual PDF resume named:
+       Gautam-Kumar-Ranjan-Resume.pdf
+   - Keep that exact filename so the Resume button works.
+
+Do not upload this instruction file if you do not want it public. It is safe to keep, but it is only a reminder.

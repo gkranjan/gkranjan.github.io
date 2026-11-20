@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dceefa"/><stop offset="1" stop-color="#c8e7e2"/></linearGradient></defs>
+<rect width="720" height="720" rx="36" fill="url(#g)"/>
+<circle cx="360" cy="265" r="120" fill="#7fa9bf"/>
+<path d="M130 670c20-150 108-235 230-235s210 85 230 235" fill="#7fa9bf"/>
+<text x="360" y="620" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#24445a">Replace with your photo</text>
+</svg>
